@@ -1,0 +1,36 @@
+Overview
+This repository contains the analysis of a dataset from the London Stock Exchange (LSE). The goal of this project is to predict the Current Price per Share (pence) for companies listed on the LSE using machine learning models. The analysis includes data preprocessing, exploratory data analysis (EDA), model development, evaluation, and visualization of results.
+
+Files in the Repository
+dataFrame.csv: The primary dataset used for analysis. It contains various financial metrics for companies listed on the London Stock Exchange.
+
+Dataset Description
+The dataFrame.csv file includes the following columns:
+
+Unnamed: 0: Index column (can be ignored or dropped).
+Sector: The sector in which the company operates.
+Subsector: The subsector in which the company operates.
+Market Cap (£ m): Market capitalization of the company in million pounds.
+Current Price per Share (pence): Current price per share in pence.
+Net Asset Value per Share (pence): Net asset value per share in pence.
+Gearing (%): Company's gearing ratio in percentage.
+Dividend Yield (%): Dividend yield in percentage.
+Last Statement Year: The year of the last financial statement.
+
+
+
+Download Stock(3).ipynb from gihub repository
+
+Link :
+
+import dataFrame.csv on google collab
+
+
+Run all
+
+
+
+
+-------------Haseeb --------------
+
+
